@@ -3,8 +3,9 @@
 - 🌱 We are currently working on developing and making accessible, a QAaaS startup.
 - 💞️ We are looking to collaborate on open and close source projects.
 - 📫 How to reach me @founder.mithrayu@gmail.com
-<!--- 😄 Pronouns: He / Him --->
 - ⚡ Fun fact: We take software quality very seriously!
+
+<!--- 😄 Pronouns: He / Him --->
 
 <!---
 mithrayu-qa/mithrayu-qa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
