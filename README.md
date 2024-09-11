@@ -2,7 +2,7 @@
 - 👀 We are interested in improving software quality by being your outsourcing friend for testing and other quality related services
 - 🌱 We are currently working on developing and making accessible, a QAaaS startup.
 - 💞️ We are looking to collaborate on open and close source projects.
-- 📫 How to reach me @founder.mithrayu@gmail.com
+- 📫 How to reach me @mithrayu.qa@gmail.com
 - ⚡ Fun fact: We take software quality very seriously!
 
 <!--- 😄 Pronouns: He / Him --->
